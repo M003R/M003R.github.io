@@ -17,6 +17,9 @@
       The Harry Potter Series
     </h3>
     <img src="https://live.staticflickr.com/2174/2061292757_73e8ef5397_b.jpg" alt="The Harry Potter Books being Showcased.">
+    <h4>
+      Image Credit: Hung Chieh Tsai on <a href="https://www.flickr.com/photos/bibicall/2061292757" target="_blank">Flickr</a>
+    </h4>
     
   </body>
 </html>
