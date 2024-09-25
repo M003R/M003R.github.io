@@ -20,6 +20,11 @@
     <h4>
       Image Credit: Hung Chieh Tsai on <a href="https://www.flickr.com/photos/bibicall/2061292757" target="_blank">Flickr</a>
     </h4>
+    <br>
+    <br>
+    <p>
+      One of the classics of the more modern take on the Fantasy or Sci Fi Genre, these stories follow the tale of a young boy who finds out that he is a wizard after living with his relatives that 
+    </p>
     
   </body>
 </html>
