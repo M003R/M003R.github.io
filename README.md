@@ -84,5 +84,9 @@
       City of Ghosts, Tunnel of Bones, Bridge of Souls - Authored by V.E. Schwab
     </h3>
     <img src="https://www.vernonlibrarysupplies.com/images/uploads/books/12320422_popup.jpg" alt="The three released books in the series so far.">
+    <br>
+    <h4>
+      Image Credit: <a href="https://www.vernonlibrarysupplies.com/product/_12320422/middle_grade_books" target="_blank" Vernon Library Supplies</a>
+    </h4>
   </body>
 </html>
