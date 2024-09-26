@@ -88,5 +88,10 @@
     <h4>
       Image Credit: <a href="https://www.vernonlibrarysupplies.com/product/_12320422/middle_grade_books" target="_blank"> Vernon Library Supplies</a>
     </h4>
+    <br>
+    <br>
+    <p>
+      The series follows a young girl named Cassie, who is inexplicable able os see ghosts. She and her poltergeist friend, Jacob, have fun adventures as they wander around and slip in and out of the world of spirits and ghosts. Her parents are film producers that make a series that explores places that are supposedly haunted, great fun for both Cassie and Jacob
+    </p>
   </body>
 </html>
