@@ -13,6 +13,12 @@
     <br>
     <br>
     <br>
+    <h2>
+      <strong> DISCLAIMER </strong>
+    </h2>
+    <p>
+      The author of these books, J.K Rowling, has been in hot water as of late, following some previous statements about her political beliefs on both women and gender identity. If you do not wish to read or support her in any way then perhaps skip over this?
+    </p>
     <h3>
       The Harry Potter Series
     </h3>
@@ -23,8 +29,9 @@
     <br>
     <br>
     <p>
-      One of the classics of the more modern take on the Fantasy or Sci Fi Genre, these stories follow the tale of a young boy who finds out that he is a wizard after living with his relatives that 
+      One of the classics of the more modern take on the Fantasy or Sci Fi Genre, these stories follow the tale of a young boy who finds out that he is a wizard after living with his relatives that are regular          people. These relatives treat him horribly. Thankfully for him, he is enrolled into a wizarding school. Over his thime there are the school over the years, he will uncover dark secrets, make new friends,          and learn some powerful spells, but will it be enough to stop the evil brewing in the background?
     </p>
+    
     
   </body>
 </html>
