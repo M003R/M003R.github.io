@@ -40,7 +40,7 @@
       The Unsouled Series or Cradle Series - Authored by Will Wight
     </h3>
     <!--REMEMBER TO ASK MR.MARCHANT HOW TO ADD THE IMAGE(S) FROM YOUR PHONE ONTO THE WEBSITE ALSO DON'T FORGET WAYBOUND-->
-    <img src="" alt="">
+    <img src="IMG_0650.jpg" alt="The 12 books in the Cradle Series">
     <h4>
       Image Credit: Derek Luc
     </h4>
@@ -58,7 +58,7 @@
       The Stormlight Archive - Authored by Brandon Sanderson
     </h3>
     <!--REMEMBER TO TAKE PHOTOS OF THE STORMLIGHT ARCHIVE AND TO REMEMBER HOW TO INSERT THEM-->
-    <img src="IMG_0650.jpg" alt="The 12 books in the Cradle Series">
+    <img src="" alt="">
     <h4>
       Image Credit: Derek Luc
     </h4>
