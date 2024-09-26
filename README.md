@@ -17,7 +17,7 @@
       <strong> DISCLAIMER </strong>
     </h2>
     <p>
-      The author of these books, J.K Rowling, has been in hot water as of late, following some previous statements about her political beliefs on both women and gender identity. If you do not wish to read or support her in any way then perhaps skip over this?
+      The author of these books, J.K Rowling, has been in hot water as of late, following some previous statements about her political beliefs on both women and gender identity. If you do not wish to read or support her in any way then perhaps skip over this? If this either doesn't bother you or you want to just read the story then you are welcome to continue.
     </p>
     <h3>
       The Harry Potter Series - Authored by J.K. Rowling
