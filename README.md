@@ -65,7 +65,11 @@
     <br>
     <br>
     <p>
-      A broken soldier 
+      A broken soldier, turned a slave. Forced to work on carrying bridges for a high prince. But perhaps he isn't as broken as he believes or at least he will have to. In the past the Knights Radiant stood against evil, but they have been gone for 2000 years. And now there is evil brewing and a plot is forming. An order is needed to save this Shattered Plane. Will he or others rise to the occasion, to harness the Storm? Or will they be torn down Odium and be consumed by hatred.
+    </p>
+    <br>
+    <p>
+      The world of the Stormlight Archvie is a meticulously crafted world by Brandon Sanderson. A fleshed out world in the Cosmere universe, that has a system of power based on the mystical power of Stormlight. This power comes from the never ending, always moving storm that raoms across the world of Roshar
     </p>
   </body>
 </html>
