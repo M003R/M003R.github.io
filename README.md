@@ -40,14 +40,32 @@
       The Unsouled Series or Cradle Series - Authored by Will Wight
     </h3>
     <!--REMEMBER TO ASK MR.MARCHANT HOW TO ADD THE IMAGE(S) FROM YOUR PHONE ONTO THE WEBSITE ALSO DON'T FORGET WAYBOUND-->
-    <img src="">
+    <img src="" alt="">
     <h4>
       Image Credit: Derek Luc
     </h4>
     <br>
     <br>
     <p>
-      This series was started in June of 2016 and ran all the way until June 4, 2023. The story follows a young boy in a world of magics, where every one would harness the "auras" around them to use certain abilities. A simple way to think of this as is a RPG of sorts. In order for the people of this world to harness the auras, they need a large or deep enough soul. He was born as an "Unsouled", or some one with such a small soul, that it might as well not exist. This doesn't hinder him as we follow him as he meets new friends, makes new foes, and navigates this world with his wit and his resourcefulness to progress in the world, and possibly even out of it.
+      This series was started in June of 2016 and ran all the way until June 4, 2023. The story follows a young boy in a world of magics, where every one would harness the "auras" around them to use certain abilities. A simple way to think of this as is a RPG of sorts. In order for the people of this world to harness the auras, they need either a large or deep enough soul. He was born as an "Unsouled", or some one with such a small soul, that it might as well not exist. This doesn't hinder him as we follow him as he meets new friends, makes new foes, and navigates this world with his wit and his resourcefulness to progress in the world, and possibly even out of it.
+    </p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h3>
+      The Stormlight Archive - Authored by Brandon Sanderson
+    </h3>
+    <!--REMEMBER TO TAKE PHOTOS OF THE STORMLIGHT ARCHIVE AND TO REMEMBER HOW TO INSERT THEM-->
+    <img src="" alt="">
+    <h4>
+      Image Credit: Derek Luc
+    </h4>
+    <br>
+    <br>
+    <p>
+      A broken soldier 
     </p>
   </body>
 </html>
