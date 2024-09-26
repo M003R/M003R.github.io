@@ -39,7 +39,7 @@
     <h3>
       The Unsouled Series or Cradle Series - Authored by Will Wight
     </h3>
-    <!--REMEMBER TO ASK MR.MARCHANT HOW TO ADD THE IMAGE(S) FROM YOUR PHONE ONTO THE WEBSITE ALSO DON'T FORGET WAYBOUND-->
+    <!-- DOWNLOAD THE FILES ONTO THE COMPUTER, THEN ADD THEM TO THE REPO. THEN COMMIT THE CHANGE TO THE REPO ALSO DON'T FORGET WAYBOUND-->
     <img src="IMG_0650.jpg" alt="The 12 books in the Cradle Series">
     <h4>
       Image Credit: Derek Luc
@@ -69,7 +69,7 @@
     </p>
     <br>
     <p>
-      The world of the Stormlight Archvie is a meticulously crafted world by Brandon Sanderson. A fleshed out world in the Cosmere universe, that has a system of power based on the mystical power of Stormlight. This power comes from the never ending, always moving storm that raoms across the world of Roshar
+      The world of the Stormlight Archvie is a meticulously crafted world by Brandon Sanderson. A fleshed out world in the Cosmere universe, that has a system of power based on the mystical power of Stormlight. This power comes from the never ending, always moving storm that roams across the world of Roshar. Spirits, called Spren, embody the power of ideals and nature, and these are the key, the question is the key to what? If you want to find out, read them for yourself.
     </p>
   </body>
 </html>
