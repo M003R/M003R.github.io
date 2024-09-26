@@ -71,5 +71,18 @@
     <p>
       The world of the Stormlight Archvie is a meticulously crafted world by Brandon Sanderson. A fleshed out world in the Cosmere universe, that has a system of power based on the mystical power of Stormlight. This power comes from the never ending, always moving storm that roams across the world of Roshar. Spirits, called Spren, embody the power of ideals and nature, and these are the key, the question is the key to what? If you want to find out, read them for yourself.
     </p>
+      <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h4>
+      Small Disclaimer, there are three boks in the series so far (maybe more to come). but I have only read the first 2, so I will not be able to comment on the third book.
+    </h4>
+    <br>
+    <h3>
+      City of Ghosts, Tunnel of Bones, Bridge of Souls - Authored by V.E. Schwab
+    </h3>
+    <img src="https://www.vernonlibrarysupplies.com/images/uploads/books/12320422_popup.jpg" alt="The three released books in the series so far.">
   </body>
 </html>
