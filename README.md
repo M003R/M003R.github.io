@@ -69,7 +69,7 @@ j<!DOCTYPE html>
     </p>
     <br>
     <p>
-      The world of the Stormlight Archvie is a meticulously crafted world by Brandon Sanderson. A fleshed out world in the Cosmere universe, that has a system of power based on the mystical power of Stormlight. This power comes from the never ending, always moving storm that roams across the world of Roshar. Spirits, called Spren, embody the power of ideals and nature, and these are the key, the question is the key to what? If you want to find out, read them for yourself.
+      The world of the Stormlight Archive is a meticulously crafted world by Brandon Sanderson, and is a grittier take on the fantasy genre that delves into topics such as PTSD, survivor's guilt, depression, and other facets of mental health. A fleshed out world in the Cosmere universe, that has a system of power based on the mystical power of Stormlight. This power comes from the never ending, always moving storm that roams across the world of Roshar. Spirits, called Spren, embody the power of ideals and nature, and these are the key, the question is the key to what? If you want to find out, read them for yourself.
     </p>
       <br>
     <br>
@@ -91,7 +91,7 @@ j<!DOCTYPE html>
     <br>
     <br>
     <p>
-      The series follows a young girl named Cassie, who is inexplicable able os see ghosts. She and her poltergeist friend, Jacob, have fun adventures as they wander around and slip in and out of the world of spirits and ghosts. Her parents are film producers that make a series that explores places that are supposedly haunted, great fun for both Cassie and Jacob
+      The series follows a young girl named Cassie, who is inexplicable able os see ghosts. She and her poltergeist friend, Jacob, have fun adventures as they wander around and slip in and out of the world of spirits and ghosts. Her parents are film producers that make a series that explores places that are supposedly haunted, great fun for both Cassie and Jacob, up for mischief. But there is a sinister secret and a sinister spirit lurking in the shadows of their locations. Will they be able to prevent the evil lurking, will they find the secret too much to bear? Find out by reading the story.
     </p>
   </body>
 </html>
