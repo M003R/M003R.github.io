@@ -77,7 +77,7 @@ j<!DOCTYPE html>
     <br>
     <br>
     <h4>
-      Small Disclaimer, there are three boks in the series so far (maybe more to come). but I have only read the first 2, so I will not be able to comment on the third book.
+      Small Disclaimer, there are three books in the series so far (maybe more to come). but I have only read the first 2, so I will not be able to comment on the third book.
     </h4>
     <br>
     <h3>
@@ -91,7 +91,7 @@ j<!DOCTYPE html>
     <br>
     <br>
     <p>
-      The series follows a young girl named Cassie, who is inexplicable able os see ghosts. She and her poltergeist friend, Jacob, have fun adventures as they wander around and slip in and out of the world of spirits and ghosts. Her parents are film producers that make a series that explores places that are supposedly haunted, great fun for both Cassie and Jacob, up for mischief. But there is a sinister secret and a sinister spirit lurking in the shadows of their locations. Will they be able to prevent the evil lurking, will they find the secret too much to bear? Find out by reading the story.
+      The series follows a young girl named Cassie, who is inexplicable able to see ghosts. She and her poltergeist friend, Jacob, have fun adventures as they wander around and slip in and out of the world of spirits and ghosts. Her parents are film producers that make a series that explores places that are supposedly haunted, great fun for both Cassie and Jacob, up for mischief. But there is a sinister secret and a sinister spirit lurking in the shadows of their locations. Will they be able to prevent the evil lurking, will they find the secret too much to bear? Find out by reading the story.
     </p>
   </body>
 </html>
