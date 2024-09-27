@@ -58,7 +58,7 @@ j<!DOCTYPE html>
       The Stormlight Archive - Authored by Brandon Sanderson
     </h3>
     <!--REMEMBER TO TAKE PHOTOS OF THE STORMLIGHT ARCHIVE AND TO REMEMBER HOW TO INSERT THEM-->
-    <img src="" alt="">
+    <img src="IMG" alt="">
     <h4>
       Image Credit: Derek Luc
     </h4>
