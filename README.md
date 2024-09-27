@@ -1,4 +1,4 @@
-j<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title> Some interesting Fantasy books to read.</title>
