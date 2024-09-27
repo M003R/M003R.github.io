@@ -58,7 +58,7 @@ j<!DOCTYPE html>
       The Stormlight Archive - Authored by Brandon Sanderson
     </h3>
     <!--REMEMBER TO TAKE PHOTOS OF THE STORMLIGHT ARCHIVE AND TO REMEMBER HOW TO INSERT THEM-->
-    <img src="IMG" alt="">
+    <img src="IMG_0658.jpg" alt="6 books of the Stormlight Archive, including the two novellas">
     <h4>
       Image Credit: Derek Luc
     </h4>
